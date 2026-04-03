@@ -55,7 +55,7 @@ Este proyecto muestra el proceso de armado de un PC desde cero, incluyendo insta
 
 Video corto del resultado final del armado (5 segundos):
 
-[Ver video](link-a-tu-video)
+[Ver video](https://raw.githubusercontent.com/Ifarf/pc-build-client-project/main/media/build.mp4)
 
 ---
 
