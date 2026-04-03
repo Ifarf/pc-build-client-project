@@ -1,12 +1,12 @@
 # 🖥️ Custom PC Build for Client
 
-Proyecto de armado, configuración y validación de un computador personalizado para cliente.
+Proyecto de ensamblaje y configuración de un computador personalizado para cliente, documentando el proceso técnico completo.
 
 ---
 
 ## 📌 Overview
 
-Este proyecto documenta el proceso completo de ensamblaje de un PC, incluyendo instalación de hardware, refrigeración, cable management y troubleshooting.
+Este proyecto muestra el proceso de armado de un PC desde cero, incluyendo instalación de hardware, refrigeración líquida, gestión de cables y resolución de problemas.
 
 ---
 
@@ -14,10 +14,10 @@ Este proyecto documenta el proceso completo de ensamblaje de un PC, incluyendo i
 
 - CPU: Intel Core i5-11400F  
 - GPU: RTX 3060  
-- RAM: 16GB DDR4 3600MHz  
-- Motherboard: Z590 Steel Legend  
-- Storage: SSD 500GB + HDD 1TB  
-- PSU: 650W 80+ Gold  
+- RAM: 16GB DDR4  
+- Motherboard: Z590  
+- Storage: SSD + HDD  
+- PSU: 650W  
 - Cooling: AIO 240mm  
 
 ---
@@ -28,51 +28,41 @@ Este proyecto documenta el proceso completo de ensamblaje de un PC, incluyendo i
 ![Build](images/build-1.jpg)
 
 - Instalación de CPU y RAM  
-- Montaje de placa madre  
-- Instalación de GPU  
-
----
-
-### Proceso de armado
-![Build Process](images/build-2.jpg)
-
-- Conexión de cables  
-- Instalación de refrigeración líquida  
-- Organización interna  
+- Preparación de la placa madre  
 
 ---
 
 ## 🧪 Troubleshooting
 
-![Troubleshooting](images/troubleshooting.jpg)
+![Issue](images/troubleshooting.jpg)
 
-**Problema:** Complejidad en instalación del cooler y espacio reducido  
-**Solución:** Ajuste de orientación + reorganización de componentes  
+**Problema:** Dificultad en instalación del sistema de refrigeración  
+**Solución:** Reorganización de componentes y ajuste del cooler  
 
 ---
 
 ## ✅ Final Result
 
-![Final Build](images/final.jpg)
+![Final](images/final.jpg)
 
-- Sistema completamente funcional  
+- Sistema funcional  
 - Buen manejo térmico  
 - Cableado optimizado  
-- Setup listo para uso  
 
 ---
 
 ## 🎥 Build Video
 
-Video corto del resultado final del armado:
+Video corto del resultado final del armado (5 segundos):
 
-https://github.com/TU-USUARIO/pc-build-client-project/blob/main/media/build.mp4
+[Ver video](link-a-tu-video)
+
 ---
 
 ## 🧠 Skills Demonstrated
 
 - Hardware Assembly  
-- PC Troubleshooting  
+- Troubleshooting  
 - Cable Management  
 - Thermal Management  
 - System Setup  
@@ -82,5 +72,4 @@ https://github.com/TU-USUARIO/pc-build-client-project/blob/main/media/build.mp4
 ## 📈 Future Improvements
 
 - Upgrade a NVMe SSD  
-- Optimización de airflow  # pc-build-client-project
-Custom PC build project for a client, including hardware assembly, troubleshooting, cable management, and system setup documentation.
+- Optimización de airflow
